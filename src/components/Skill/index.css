@@ -1,0 +1,31 @@
+.li {
+  list-style-type: none;
+  margin: 12px;
+}
+.btn2 {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  display: flex;
+}
+
+.logo {
+  width: 70px;
+  margin-right: 4px;
+  margin-left: 4px;
+}
+
+.skill_name {
+  color: #4656a1;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.link {
+  text-decoration: none;
+  border: none;
+}

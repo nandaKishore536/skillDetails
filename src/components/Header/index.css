@@ -1,0 +1,15 @@
+.head_bg {
+  background-color: #f1f5f9;
+  padding: 10px;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.img {
+  width: 140px;
+}

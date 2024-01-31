@@ -1,0 +1,33 @@
+.div {
+  display: flex;
+  border-radius: 4px;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.skill_img {
+  width: 40%;
+}
+
+.sub {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px;
+  width: 60%;
+  flex-wrap: wrap;
+}
+
+.h1 {
+  color: #4656a1;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.paar {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+}
